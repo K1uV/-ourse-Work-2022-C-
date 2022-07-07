@@ -1,0 +1,6 @@
+﻿  cursova16.cpp
+  cursova16Dlg.cpp
+E:\C++ Labs\cursova16\cursova16\cursova16Dlg.cpp(166,10): warning C4244: 'initializing': conversion from 'intptr_t' to 'int', possible loss of data
+E:\C++ Labs\cursova16\cursova16\cursova16Dlg.cpp(172,10): warning C4244: 'initializing': conversion from 'intptr_t' to 'int', possible loss of data
+  Generating Code...
+  cursova16.vcxproj -> E:\C++ Labs\cursova16\x64\Debug\cursova16.exe
